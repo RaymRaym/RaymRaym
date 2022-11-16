@@ -1,4 +1,4 @@
-## 👋👍✌️👌🤟✊  Hey there ! 
+## 👋👍✌️👌🤟✊
 I’m Rui 😎 
 
 ![](https://img.shields.io/badge/-Software%20Engineering-orange) ![](https://img.shields.io/badge/-SDU%20%7C%20College%20of%20Software%7C%202017--2021-red)
