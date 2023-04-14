@@ -9,14 +9,10 @@ I’m Rui 😎
 - 💞️ I’m looking to collaborate on Web or APP backend development & Computer Graphics 
 - 🥳 Feel free to make friends with me !!! 
 - 🧐 Fun Fact: 
-
 If you solve only one leetcode problem a day, you will never finish because every week there are more than 7 new problems released. 🤯🤯
 
 ![Raym's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaymRaym&show_icons=true&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaymRaym&layout=compact&theme=tokyonight) -->
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/RaymRaym/count.svg)
 
 <!---
 RaymRaym/RaymRaym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
