@@ -7,7 +7,7 @@ I’m Rui 😎
 - 👀 I’m now working on backend development.
 - 🌱 I’m currently learning Spring Family Bucket, Golang and a little bit of React.
 - 💞️ I’m looking to collaborate on Web or APP backend development & Computer Graphics 
-- 🥳 Feel free to make friends with me !!! 
+- 🥳 Feel free to reach out !!! 
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaymRaym&layout=compact&theme=tokyonight) -->
