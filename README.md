@@ -1,5 +1,4 @@
 ## 👋👍✌️👌🤟✊
-I’m Rui 😎 
 
 ![](https://img.shields.io/badge/-Computer%20Science-8003fc)  ![](https://img.shields.io/badge/-NYU%20%7C%20Tandon%20%7C%202021--2024-5e03fc)
 
